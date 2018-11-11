@@ -1,0 +1,2216 @@
+{
+    "lens_id": "",
+    "document_id": "KmzC3iXhr1CcSox2odxF",
+    "original_document_id": "HJxrw9YhW009ztIuJRnz",
+    "version": "1",
+    "lastChanged": "1541917590104",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "7",
+            "patch": "0",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "1432329899-pac-man-256-screenshot-5__large"
+                    ],
+                    [
+                        "Cinematic"
+                    ],
+                    [
+                        "Miami"
+                    ],
+                    [
+                        "Night"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Orthographic Camera Output_2"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Templates"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Templates",
+                        "particle_flipbook [COPY_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Templates",
+                        "particle_flipbook_Blend [COPY_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Templates",
+                        "particle_physics [COPY_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Templates",
+                        "particle_velocity_Direction [COPY_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Templates",
+                        "particle_vertex_Lighting [COPY_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Blizzard"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Blizzard",
+                        "particle_blizzard [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Rain"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Rain",
+                        "particle_rain [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Rain",
+                        "particle_rain_ground_splash [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Snow"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Snow",
+                        "particle_snow [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "Weather",
+                        "Snow",
+                        "particle_snow_ground [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Bokeh"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Bokeh",
+                        "particle_bokeh [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Embers"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Embers",
+                        "particle_embers [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain",
+                        "particle_fountain_distortion [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain",
+                        "particle_fountain_splash [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain",
+                        "particle_fountain_waterdrops [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain_Cartoon"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain_Cartoon",
+                        "particle_fountain_splash [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Physics"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Physics",
+                        "particle_physics [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Smoke",
+                        "particle_smoke [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Sparkles"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Sparkles",
+                        "particle_sparkles [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "particle"
+                    ],
+                    [
+                        "ParticleResources"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes",
+                        "emitter_1000"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "1x1_white"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_blink"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_fire_add"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_fire_smoke"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_fireflies"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_fireflies_add"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_linear_blend"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_smoke_fade"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "cr_white_fade"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "debris_2x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fireball_2x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_bokeh"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_bubble_2x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_fireworks_copy"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_glow"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_rain_2x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_smoke_realisticsSmall"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_sparkles_2x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_twinkle_dust_add"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_water_splash_2x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_water_splash_2x2_cartoony"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_water_splash_2x2_distortion"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "fx_water_splash_4x2"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Textures",
+                        "numtest"
+                    ],
+                    [
+                        "SceneResources"
+                    ],
+                    [
+                        "SceneResources",
+                        "Materials"
+                    ],
+                    [
+                        "SceneResources",
+                        "Materials",
+                        "matte_shadow"
+                    ],
+                    [
+                        "SceneResources",
+                        "Meshes"
+                    ],
+                    [
+                        "SceneResources",
+                        "Meshes",
+                        "plane"
+                    ],
+                    [
+                        "SceneResources",
+                        "Textures"
+                    ],
+                    [
+                        "SceneResources",
+                        "Textures",
+                        "camera_output"
+                    ],
+                    [
+                        "SceneResources",
+                        "Textures",
+                        "device_camera_texture"
+                    ],
+                    [
+                        "Scripts"
+                    ],
+                    [
+                        "Scripts",
+                        "BlizzardController"
+                    ],
+                    [
+                        "Scripts",
+                        "BokehController"
+                    ],
+                    [
+                        "Scripts",
+                        "ExternalTimeController"
+                    ],
+                    [
+                        "Scripts",
+                        "GlobalTime"
+                    ],
+                    [
+                        "Scripts",
+                        "RainController"
+                    ],
+                    [
+                        "Scripts",
+                        "SnowController"
+                    ],
+                    [
+                        "Scripts",
+                        "SparklesController"
+                    ],
+                    [
+                        "Untitled-2"
+                    ],
+                    [
+                        "Untitled-2_2"
+                    ],
+                    [
+                        "Untitled-3"
+                    ],
+                    [
+                        "Untitled-3_2"
+                    ],
+                    [
+                        "fix"
+                    ],
+                    [
+                        "glitch-2717630_960_720"
+                    ],
+                    [
+                        "particle"
+                    ],
+                    [
+                        "particle_2"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1519415449439637:101704",
+                    "1519422584841587:107362",
+                    "1519669156185514:176112",
+                    "1519669181855311:177002",
+                    "1519669203936432:177727",
+                    "1519669283031788:179525",
+                    "1519836909095262:3736",
+                    "1519836920959040:3758",
+                    "1519836925492004:3773",
+                    "1519836929767521:3788",
+                    "1519836954302514:3807",
+                    "1519836970038015:4461",
+                    "1519836986882479:5118",
+                    "1519837014158836:7157",
+                    "1519837023816269:7172",
+                    "1519856872900203:5345",
+                    "1519927708694158:10025",
+                    "1519928131877550:19490",
+                    "1519929904978458:39612",
+                    "1520013907736945:24654",
+                    "1520297385015427:86081",
+                    "1520458657709193:40810",
+                    "1541890182675600:21529"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "412c42fb2c634c643237611432d03d08",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_look_around"
+            ],
+            "lens": "HackMCST Lense",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true",
+            "show_snap_ui": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1516752830754838:18872",
+                    "1520455552996932:22730",
+                    "1541890182675861:21532",
+                    "1541890521007448:9898",
+                    "1541890664843822:32650"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1512063260594199:26308",
+                    "name": "\/Resources\/Resource13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Emitter_1000"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1516752773940566:18647",
+                    "name": "\/Resources\/Resource70.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1517856557696711:12836",
+                    "name": "\/Resources\/Resource76.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1517856791313031:14299",
+                    "name": "\/Resources\/Resource77",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1517939964055015:10157",
+                    "name": "\/Resources\/Resource78.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1517940160948553:11403",
+                    "name": "\/Resources\/Resource79.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "83",
+                    "uid": "1519404912300354:3086",
+                    "name": "\/Resources\/Resource83",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "84",
+                    "uid": "1519405063842035:3363",
+                    "name": "\/Resources\/Resource84.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "86",
+                    "uid": "1519405339406402:4639",
+                    "name": "\/Resources\/Resource86.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "88",
+                    "uid": "1519415069855611:100711",
+                    "name": "\/Resources\/Resource88.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "89",
+                    "uid": "1519415258986969:100962",
+                    "name": "\/Resources\/Resource89.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1519422343490864:105899",
+                    "name": "\/Resources\/Resource92.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1519423513506043:154872",
+                    "name": "\/Resources\/Resource96.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "97",
+                    "uid": "1519423520126810:154885",
+                    "name": "\/Resources\/Resource97.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "101",
+                    "uid": "1519424879905130:51244",
+                    "name": "\/Resources\/Resource101.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "104",
+                    "uid": "1519666931879483:56554",
+                    "name": "\/Resources\/Resource104.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "114",
+                    "uid": "1519671522755307:192130",
+                    "name": "\/Resources\/Resource114.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "126",
+                    "uid": "1519752435838450:27133",
+                    "name": "\/Resources\/Resource126.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "127",
+                    "uid": "1519753762848208:29967",
+                    "name": "\/Resources\/Resource127.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "128",
+                    "uid": "1519753791189413:30021",
+                    "name": "\/Resources\/Resource128.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "141",
+                    "uid": "1519837588158564:17714",
+                    "name": "\/Resources\/Resource141.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "147",
+                    "uid": "1519837904717880:23791",
+                    "name": "\/Resources\/Resource147.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "150",
+                    "uid": "1519838480984620:11069",
+                    "name": "\/Resources\/Resource150.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "160",
+                    "uid": "1519839287243665:46991",
+                    "name": "\/Resources\/Resource160.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "165",
+                    "uid": "1519857177320462:21703",
+                    "name": "\/Resources\/Resource165.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "166",
+                    "uid": "1519857177329475:21715",
+                    "name": "\/Resources\/Resource166.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "171",
+                    "uid": "1519927782571435:14329",
+                    "name": "\/Resources\/Resource171.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "194",
+                    "uid": "1520292394283844:6394",
+                    "name": "\/Resources\/Resource194",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "195",
+                    "uid": "1520292633958103:14383",
+                    "name": "\/Resources\/Resource195",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "196",
+                    "uid": "1520292679066325:14663",
+                    "name": "\/Resources\/Resource196",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "197",
+                    "uid": "1520293529962769:30787",
+                    "name": "\/Resources\/Resource197",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "198",
+                    "uid": "1520293658808797:32491",
+                    "name": "\/Resources\/Resource198",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "199",
+                    "uid": "1520293939425660:36220",
+                    "name": "\/Resources\/Resource199",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "200",
+                    "uid": "1520294069929287:37857",
+                    "name": "\/Resources\/Resource200",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "201",
+                    "uid": "1520294268660763:39603",
+                    "name": "\/Resources\/Resource201",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "202",
+                    "uid": "1520294458961058:41931",
+                    "name": "\/Resources\/Resource202",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "203",
+                    "uid": "1520294624420510:43357",
+                    "name": "\/Resources\/Resource203",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "204",
+                    "uid": "1520295111210500:49218",
+                    "name": "\/Resources\/Resource204",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "205",
+                    "uid": "1520295325812121:53223",
+                    "name": "\/Resources\/Resource205",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "206",
+                    "uid": "1520295601533473:55761",
+                    "name": "\/Resources\/Resource206",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1520296314821074:72706",
+                    "name": "\/Resources\/Resource209",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "210",
+                    "uid": "1520296514590639:73761",
+                    "name": "\/Resources\/Resource210",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "211",
+                    "uid": "1520296847536148:78694",
+                    "name": "\/Resources\/Resource211",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "212",
+                    "uid": "1520297097895925:80210",
+                    "name": "\/Resources\/Resource212",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "213",
+                    "uid": "1520297401687903:87749",
+                    "name": "\/Resources\/Resource213",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "216",
+                    "uid": "1520360471478033:4711",
+                    "name": "\/Resources\/Resource216.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1520360796083277:5637",
+                    "name": "\/Resources\/Resource217.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "219",
+                    "uid": "1520466516787664:50480",
+                    "name": "\/Resources\/Resource219.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "220",
+                    "uid": "1520468423075251:125104",
+                    "name": "\/Resources\/Resource220.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "221",
+                    "uid": "1520551338955207:358381",
+                    "name": "\/Resources\/Resource221.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "222",
+                    "uid": "1521239199636938:628894",
+                    "name": "\/Resources\/Resource222.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1521239757252643:639828",
+                    "name": "\/Resources\/Resource223.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1521490466323267:291906",
+                    "name": "\/Resources\/Resource224.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1541888251928018:5932",
+                    "name": "\/Resources\/Resource225.png",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Documents\/HackMCST\/Public\/ParticleResources\/Textures\/particle.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "226",
+                    "uid": "1541888293455177:5950",
+                    "name": "\/Resources\/Resource226.png",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Documents\/HackMCST\/Public\/ParticleResources\/Textures\/particle.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "227",
+                    "uid": "1541888369133025:6027",
+                    "name": "\/Resources\/Resource227.png",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Documents\/HackMCST\/Public\/ParticleResources\/Textures\/particle.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "231",
+                    "uid": "1541889440490917:8501",
+                    "name": "\/Resources\/Resource231",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1541889486712192:10403",
+                    "name": "\/Resources\/Resource232.png",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Desktop\/Untitled-2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1541889953673829:21495",
+                    "name": "\/Resources\/Resource233.png",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Desktop\/fix.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "234",
+                    "uid": "1541890182750219:21541",
+                    "name": "\/Resources\/Resource234.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "236",
+                    "uid": "1541890182791872:21565",
+                    "name": "\/Resources\/Resource236",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "237",
+                    "uid": "1541890197222249:23381",
+                    "name": "\/Resources\/Resource237.jpg",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Desktop\/1432329899-pac-man-256-screenshot-5__large.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "238",
+                    "uid": "1541890279064385:25549",
+                    "name": "\/Resources\/Resource238.jpg",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Downloads\/Untitled-3.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "239",
+                    "uid": "1541890384319881:31042",
+                    "name": "\/Resources\/Resource239.jpg",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Downloads\/Untitled-3.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "240",
+                    "uid": "1541890521038459:9907",
+                    "name": "\/Resources\/Resource240",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "241",
+                    "uid": "1541890521059379:9918",
+                    "name": "\/Resources\/Resource241.png",
+                    "sourceFilePath": "\/var\/folders\/j2\/p6091qx97p78z18vzzfw__680000gn\/T\/Lens Studio-gjJaQz\/\/system\/\/gpuBlendmodesTexture.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "242",
+                    "uid": "1541890552382175:14294",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "247",
+                    "uid": "1541890580377740:19295",
+                    "name": "\/Resources\/Resource247.png",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/post_effects\/Night.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "248",
+                    "uid": "1541890619201042:24335",
+                    "name": "\/Resources\/Resource248.jpg",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Desktop\/glitch-2717630_960_720.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "250",
+                    "uid": "1541890639242617:27614",
+                    "name": "\/Resources\/Resource250",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "251",
+                    "uid": "1541890639259839:27626",
+                    "name": "\/Resources\/Resource251.png",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/post_effects\/Miami.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "257",
+                    "uid": "1541890700526054:35194",
+                    "name": "\/Resources\/Resource257",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "258",
+                    "uid": "1541890700545359:35206",
+                    "name": "\/Resources\/Resource258.png",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/post_effects\/Cinematic.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "261",
+                    "uid": "1541891129976679:56278",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "263",
+                    "uid": "1541891130033074:56421",
+                    "name": "\/Resources\/Resource263",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/Studio3D\/Resources\/Studio3DResources.bundle\/shaders\/flat.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "264",
+                    "uid": "1541891147344073:60591",
+                    "name": "\/Resources\/Resource264.png",
+                    "sourceFilePath": "\/Users\/mariodisanza\/Desktop\/Untitled-2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "AudioEffectComponent": {
+                    "presetsMap": "",
+                    "samplesMap": ""
+                },
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1516751778639140:13444",
+                "1": "1517856551068255:12728",
+                "2": "1519404592403573:158057",
+                "3": "1519415449439637:101704",
+                "4": "1519669156185514:176112",
+                "5": "1519669181855311:177002",
+                "6": "1519836909095262:3736",
+                "7": "1519836920959040:3758",
+                "8": "1519836925492004:3773",
+                "9": "1519836929767521:3788",
+                "10": "1519836954302514:3807",
+                "11": "1519836970038015:4461",
+                "12": "1519836986882479:5118",
+                "13": "1519837046582680:7250",
+                "14": "1519837317528672:11409",
+                "15": "1519837501529458:14176",
+                "16": "1519837504410440:14979",
+                "17": "1519837507290158:15792",
+                "18": "1519837511201018:16769",
+                "19": "1519837790772707:18089",
+                "20": "1519837791194029:18861",
+                "21": "1519837791577375:19648",
+                "22": "1519837791875302:19696",
+                "23": "1519837860219379:21980",
+                "24": "1519838201877384:8900",
+                "25": "1519838639006080:11600",
+                "26": "1519838805154473:14162",
+                "27": "1519838805478027:15026",
+                "28": "1519838805753440:15074",
+                "29": "1519838806111665:15962",
+                "30": "1519927663092820:9992",
+                "31": "1519927702540712:10010",
+                "32": "1519927708694158:10025",
+                "33": "1519927749420910:12155",
+                "34": "1519927995185282:15528",
+                "35": "1519928131877550:19490",
+                "36": "1519928131877564:19493",
+                "37": "1519928907584348:23660",
+                "38": "1519929154468867:25559",
+                "39": "1519929154795407:25687",
+                "40": "1519929155194708:26780",
+                "41": "1519929164485041:29508",
+                "42": "1519929367230877:31409",
+                "43": "1519929466666155:33351",
+                "44": "1519929467031483:34571",
+                "45": "1519929467447849:34619",
+                "46": "1519929467881861:35854",
+                "47": "1519929904978458:39612",
+                "48": "1519929904978474:39615",
+                "49": "1519930178136077:42866",
+                "50": "1519930178370185:42914",
+                "51": "1519930178724171:44184",
+                "52": "1519930178939605:44352",
+                "53": "1520013907736945:24654",
+                "54": "1520013907737000:24669",
+                "55": "1520297385015427:86081",
+                "56": "1520297385015443:86084",
+                "57": "1520458657709193:40810",
+                "58": "1541889440469602:8482",
+                "59": "1541890182675600:21529",
+                "60": "1541890182675861:21532",
+                "61": "1541890521007448:9898",
+                "62": "1541890580256609:19262",
+                "63": "1541890639086382:27593",
+                "64": "1541890700369365:35173",
+                "65": "1541891129972647:56183",
+                "66": "1541891129976850:56287",
+                "67": "1541891129977034:56290"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Scripts",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "ExternalTimeController",
+                                "resourceId": "78",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "GlobalTime",
+                                "resourceId": "79",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "RainController",
+                                "resourceId": "219",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "SnowController",
+                                "resourceId": "220",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "BlizzardController",
+                                "resourceId": "221",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "BokehController",
+                                "resourceId": "222",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "SparklesController",
+                                "resourceId": "223",
+                                "extension": "js"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "ParticleResources",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "emitter_1000",
+                                        "resourceId": "13",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "cr_smoke_fade",
+                                        "resourceId": "70",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "debris_2x2",
+                                        "resourceId": "84",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_water_splash_2x2",
+                                        "resourceId": "86",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_water_splash_2x2_distortion",
+                                        "resourceId": "88",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_linear_blend",
+                                        "resourceId": "89",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_bubble_2x2",
+                                        "resourceId": "92",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_fireflies_add",
+                                        "resourceId": "96",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_fireflies",
+                                        "resourceId": "97",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_smoke_realisticsSmall",
+                                        "resourceId": "101",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_fire_smoke",
+                                        "resourceId": "104",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "1x1_white",
+                                        "resourceId": "114",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_glow",
+                                        "resourceId": "126",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_fire_add",
+                                        "resourceId": "127",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_blink",
+                                        "resourceId": "128",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_rain_2x2",
+                                        "resourceId": "141",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_bokeh",
+                                        "resourceId": "147",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_sparkles_2x2",
+                                        "resourceId": "150",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_water_splash_2x2_cartoony",
+                                        "resourceId": "160",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_twinkle_dust_add",
+                                        "resourceId": "165",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_fireworks_copy",
+                                        "resourceId": "166",
+                                        "extension": "jpg"
+                                    },
+                                    {
+                                        "name": "numtest",
+                                        "resourceId": "171",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fx_water_splash_4x2",
+                                        "resourceId": "216",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "cr_white_fade",
+                                        "resourceId": "217",
+                                        "extension": "png"
+                                    },
+                                    {
+                                        "name": "fireball_2x2",
+                                        "resourceId": "224",
+                                        "extension": "png"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "SceneResources",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "matte_shadow",
+                                        "resourceId": "77",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "camera_output",
+                                        "resourceId": "1",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "device_camera_texture",
+                                        "resourceId": "2",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "plane",
+                                        "resourceId": "76",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "ParticleMaterials [EDIT_ME]",
+                        "groups": [
+                            {
+                                "name": "Weather",
+                                "groups": [
+                                    {
+                                        "name": "Rain",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_rain [EDIT_ME]",
+                                                "resourceId": "199",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "particle_rain_ground_splash [EDIT_ME]",
+                                                "resourceId": "200",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Snow",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_snow [EDIT_ME]",
+                                                "resourceId": "201",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "particle_snow_ground [EDIT_ME]",
+                                                "resourceId": "202",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Blizzard",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_blizzard [EDIT_ME]",
+                                                "resourceId": "198",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
+                            },
+                            {
+                                "name": "World",
+                                "groups": [
+                                    {
+                                        "name": "Smoke",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_smoke [EDIT_ME]",
+                                                "resourceId": "206",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Physics",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_physics [EDIT_ME]",
+                                                "resourceId": "83",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fountain",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_fountain_splash [EDIT_ME]",
+                                                "resourceId": "210",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "particle_fountain_distortion [EDIT_ME]",
+                                                "resourceId": "211",
+                                                "extension": ""
+                                            },
+                                            {
+                                                "name": "particle_fountain_waterdrops [EDIT_ME]",
+                                                "resourceId": "212",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Fountain_Cartoon",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_fountain_splash [EDIT_ME]",
+                                                "resourceId": "209",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Sparkles",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_sparkles [EDIT_ME]",
+                                                "resourceId": "203",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Bokeh",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_bokeh [EDIT_ME]",
+                                                "resourceId": "204",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "name": "Embers",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_embers [EDIT_ME]",
+                                                "resourceId": "205",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
+                            },
+                            {
+                                "name": "Templates",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "particle_flipbook [COPY_ME]",
+                                        "resourceId": "194",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "particle_flipbook_Blend [COPY_ME]",
+                                        "resourceId": "195",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "particle_physics [COPY_ME]",
+                                        "resourceId": "196",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "particle_velocity_Direction [COPY_ME]",
+                                        "resourceId": "197",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "particle_vertex_Lighting [COPY_ME]",
+                                        "resourceId": "213",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "particle",
+                                "resourceId": "225",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "particle_2",
+                        "resourceId": "226",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "particle",
+                        "resourceId": "227",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Untitled-2",
+                        "resourceId": "232",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "fix",
+                        "resourceId": "233",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "1432329899-pac-man-256-screenshot-5__large",
+                        "resourceId": "237",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Untitled-3",
+                        "resourceId": "238",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Untitled-3_2",
+                        "resourceId": "239",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "242",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Night",
+                        "resourceId": "247",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "glitch-2717630_960_720",
+                        "resourceId": "248",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Miami",
+                        "resourceId": "251",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Cinematic",
+                        "resourceId": "258",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output_2",
+                        "resourceId": "261",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Untitled-2_2",
+                        "resourceId": "264",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "13",
+                    "path": "ParticleResources\/Meshes\/emitter_1000.mesh"
+                },
+                {
+                    "id": "70",
+                    "path": "ParticleResources\/Textures\/cr_smoke_fade.png"
+                },
+                {
+                    "id": "76",
+                    "path": "SceneResources\/Meshes\/plane.mesh"
+                },
+                {
+                    "id": "78",
+                    "path": "Scripts\/ExternalTimeController.js"
+                },
+                {
+                    "id": "79",
+                    "path": "Scripts\/GlobalTime.js"
+                },
+                {
+                    "id": "84",
+                    "path": "ParticleResources\/Textures\/debris_2x2.png"
+                },
+                {
+                    "id": "86",
+                    "path": "ParticleResources\/Textures\/fx_water_splash_2x2.png"
+                },
+                {
+                    "id": "88",
+                    "path": "ParticleResources\/Textures\/fx_water_splash_2x2_distortion.png"
+                },
+                {
+                    "id": "89",
+                    "path": "ParticleResources\/Textures\/cr_linear_blend.png"
+                },
+                {
+                    "id": "92",
+                    "path": "ParticleResources\/Textures\/fx_bubble_2x2.png"
+                },
+                {
+                    "id": "96",
+                    "path": "ParticleResources\/Textures\/cr_fireflies_add.png"
+                },
+                {
+                    "id": "97",
+                    "path": "ParticleResources\/Textures\/cr_fireflies.png"
+                },
+                {
+                    "id": "101",
+                    "path": "ParticleResources\/Textures\/fx_smoke_realisticsSmall.png"
+                },
+                {
+                    "id": "104",
+                    "path": "ParticleResources\/Textures\/cr_fire_smoke.png"
+                },
+                {
+                    "id": "114",
+                    "path": "ParticleResources\/Textures\/1x1_white.png"
+                },
+                {
+                    "id": "126",
+                    "path": "ParticleResources\/Textures\/fx_glow.png"
+                },
+                {
+                    "id": "127",
+                    "path": "ParticleResources\/Textures\/cr_fire_add.png"
+                },
+                {
+                    "id": "128",
+                    "path": "ParticleResources\/Textures\/cr_blink.png"
+                },
+                {
+                    "id": "141",
+                    "path": "ParticleResources\/Textures\/fx_rain_2x2.png"
+                },
+                {
+                    "id": "147",
+                    "path": "ParticleResources\/Textures\/fx_bokeh.png"
+                },
+                {
+                    "id": "150",
+                    "path": "ParticleResources\/Textures\/fx_sparkles_2x2.png"
+                },
+                {
+                    "id": "160",
+                    "path": "ParticleResources\/Textures\/fx_water_splash_2x2_cartoony.png"
+                },
+                {
+                    "id": "165",
+                    "path": "ParticleResources\/Textures\/fx_twinkle_dust_add.png"
+                },
+                {
+                    "id": "166",
+                    "path": "ParticleResources\/Textures\/fx_fireworks_copy.jpg"
+                },
+                {
+                    "id": "171",
+                    "path": "ParticleResources\/Textures\/numtest.png"
+                },
+                {
+                    "id": "216",
+                    "path": "ParticleResources\/Textures\/fx_water_splash_4x2.png"
+                },
+                {
+                    "id": "217",
+                    "path": "ParticleResources\/Textures\/cr_white_fade.png"
+                },
+                {
+                    "id": "219",
+                    "path": "Scripts\/RainController.js"
+                },
+                {
+                    "id": "220",
+                    "path": "Scripts\/SnowController.js"
+                },
+                {
+                    "id": "221",
+                    "path": "Scripts\/BlizzardController.js"
+                },
+                {
+                    "id": "222",
+                    "path": "Scripts\/BokehController.js"
+                },
+                {
+                    "id": "223",
+                    "path": "Scripts\/SparklesController.js"
+                },
+                {
+                    "id": "224",
+                    "path": "ParticleResources\/Textures\/fireball_2x2.png"
+                },
+                {
+                    "id": "225",
+                    "path": "ParticleMaterials [EDIT_ME]\/particle.png"
+                },
+                {
+                    "id": "226",
+                    "path": "particle_2.png"
+                },
+                {
+                    "id": "227",
+                    "path": "particle.png"
+                },
+                {
+                    "id": "232",
+                    "path": "Untitled-2.png"
+                },
+                {
+                    "id": "233",
+                    "path": "fix.png"
+                },
+                {
+                    "id": "237",
+                    "path": "1432329899-pac-man-256-screenshot-5__large.jpg"
+                },
+                {
+                    "id": "238",
+                    "path": "Untitled-3.jpg"
+                },
+                {
+                    "id": "239",
+                    "path": "Untitled-3_2.jpg"
+                },
+                {
+                    "id": "247",
+                    "path": "Night.png"
+                },
+                {
+                    "id": "248",
+                    "path": "glitch-2717630_960_720.jpg"
+                },
+                {
+                    "id": "251",
+                    "path": "Miami.png"
+                },
+                {
+                    "id": "258",
+                    "path": "Cinematic.png"
+                },
+                {
+                    "id": "264",
+                    "path": "Untitled-2_2.png"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "101:100"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "11": "",
+            "12": "",
+            "13": "",
+            "14": "",
+            "15": "",
+            "16": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            },
+            "importInfo": ""
+        }
+    }
+}
